@@ -1,10 +1,5 @@
 var searchData=
 [
-  ['initialize_5fc',['initialize_c',['../classsequences_1_1_niederreiter.html#a09ba085cc6c243f090a8022878a19e89',1,'sequences::Niederreiter']]],
-  ['input_5ffunc',['input_func',['../classirrpoly_1_1checker.html#a6a60341386dfedacc6b54b52b64b74cb',1,'irrpoly::checker']]],
-  ['irreducible_5fmethod',['irreducible_method',['../polynomialgf_8hpp.html#a9c3d44addd1f44829ab2002d633f2d82',1,'irrpoly::multithread']]],
-  ['is_5firreducible_5fberlekamp',['is_irreducible_berlekamp',['../polynomialgf_8hpp.html#aa80aa0c65714a76d61a4e373b3dec477',1,'irrpoly']]],
-  ['is_5firreducible_5frabin',['is_irreducible_rabin',['../polynomialgf_8hpp.html#a58f4ff6a7b0e3c2e25b5e38384c2f1b6',1,'irrpoly']]],
-  ['is_5fprimitive_5fdefinition',['is_primitive_definition',['../polynomialgf_8hpp.html#aab478c81d581fc4dbbc0ca4eec097038',1,'irrpoly']]],
-  ['is_5fzero',['is_zero',['../classirrpoly_1_1gf.html#a916aee764a38b1111823bd164e9eb664',1,'irrpoly::gf']]]
+  ['niederreiter_24',['Niederreiter',['../classtms_1_1_niederreiter.html',1,'Niederreiter&lt; UIntType &gt;'],['../classtms_1_1_niederreiter.html#a75a355a24f645114a3e0236f1e218e5e',1,'tms::Niederreiter::Niederreiter(BasicInt const nbits, BasicInt const dim, bool const in_parallel=false)'],['../classtms_1_1_niederreiter.html#a9ee830ad691c07e4349298de51edb659',1,'tms::Niederreiter::Niederreiter(BasicInt const nbits, std::vector&lt; BasicInt &gt; const &amp;degrees_of_irrpolys, std::vector&lt; std::vector&lt; uintmax_t &gt; &gt; const &amp;matrix_of_initial_values={})'],['../classtms_1_1_niederreiter.html#aeeb8ffe2fd4a4e723939aafcfb414718',1,'tms::Niederreiter::Niederreiter(BasicInt const nbits, std::initializer_list&lt; BasicInt &gt; const &amp;degrees_of_irrpolys, std::initializer_list&lt; std::vector&lt; uintmax_t &gt; &gt; const &amp;matrix_of_initial_values={})'],['../classtms_1_1_niederreiter.html#a1ae85085dd7a2a43ec6481ccc6dab03d',1,'tms::Niederreiter::Niederreiter(BasicInt const nbits, std::vector&lt; std::vector&lt; uintmax_t &gt; &gt; const &amp;irrpolys_coeffs, std::vector&lt; std::vector&lt; uintmax_t &gt; &gt; const &amp;matrix_of_initial_values={})'],['../classtms_1_1_niederreiter.html#a7c29cbe1c1aa2d37082a2c4644ae1953',1,'tms::Niederreiter::Niederreiter(BasicInt const nbits, std::initializer_list&lt; std::vector&lt; uintmax_t &gt; &gt; const &amp;irrpolys_coeffs, std::initializer_list&lt; std::vector&lt; uintmax_t &gt; &gt; const &amp;matrix_of_initial_values={})']]],
+  ['niederreiter2_2ehpp_25',['niederreiter2.hpp',['../niederreiter2_8hpp.html',1,'']]]
 ];

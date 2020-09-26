@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['fix',['fix',['../classirrpoly_1_1gf.html#a52c24d75120256bd7ee445d401a9df96',1,'irrpoly::gf']]],
-  ['for_5feach_5fpoint_5fint',['for_each_point_int',['../classsequences_1_1_niederreiter.html#a6d95ab768beff7db771d27009efe2476',1,'sequences::Niederreiter']]],
-  ['for_5feach_5fpoint_5freal',['for_each_point_real',['../classsequences_1_1_niederreiter.html#a01b2f35dbfc3e38a814ae4995addba3a',1,'sequences::Niederreiter']]]
+  ['initialize_5fdirection_5fnumbers_15',['initialize_direction_numbers',['../classtms_1_1_niederreiter.html#a133ddafe06a4e5cbf9ed72141674389c',1,'tms::Niederreiter']]],
+  ['is_5fmatrix_5fof_5finitial_5fvalues_5fvalid_16',['is_matrix_of_initial_values_valid',['../classtms_1_1_niederreiter.html#a68e2a16d3cf6ad7b40700124bb78c34f',1,'tms::Niederreiter']]]
 ];

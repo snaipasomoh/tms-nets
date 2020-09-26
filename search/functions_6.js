@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['lock',['lock',['../classirrpoly_1_1detail_1_1sync.html#a5d1ca4288b3113f745f548d81f90573c',1,'irrpoly::detail::sync']]]
+  ['store_5fnext_5fpoint_5fint_55',['store_next_point_int',['../classtms_1_1_niederreiter.html#a405a8b4df004cc34ec90c648be5179c1',1,'tms::Niederreiter']]],
+  ['store_5fpoint_5fint_56',['store_point_int',['../classtms_1_1_niederreiter.html#aee932ffbea098cfd9c66cbaba76f6c1f',1,'tms::Niederreiter']]]
 ];

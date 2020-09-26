@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['gf_5ftype',['gf_type',['../classirrpoly_1_1gf.html#aa81a5c6a2c7402a40ae6b20bb10c447b',1,'irrpoly::gf']]]
+  ['point_65',['Point',['../namespacetms.html#a03731000658f4568566d5acc35945c95',1,'tms']]],
+  ['polynomial_66',['Polynomial',['../namespacetms.html#aee09b7d9493ffe23f39a3f5cfd2170b1',1,'tms']]]
 ];

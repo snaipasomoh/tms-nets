@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['lock',['lock',['../classirrpoly_1_1detail_1_1sync.html#a5d1ca4288b3113f745f548d81f90573c',1,'irrpoly::detail::sync']]]
+  ['point_26',['Point',['../namespacetms.html#a03731000658f4568566d5acc35945c95',1,'tms']]],
+  ['polynomial_27',['Polynomial',['../namespacetms.html#aee09b7d9493ffe23f39a3f5cfd2170b1',1,'tms']]]
 ];

@@ -1,6 +1,11 @@
-<map id="include/niederreiter2.hpp" name="include/niederreiter2.hpp">
-<area shape="rect" id="node2" href="$polynomialgf_8hpp.html" title="irrpoly/polynomialgf.hpp" alt="" coords="727,80,886,107"/>
-<area shape="rect" id="node7" href="$gf_8hpp.html" title="gf.hpp" alt="" coords="335,155,393,181"/>
-<area shape="rect" id="node13" href="$polynomial_8hpp_source.html" title="polynomial.hpp" alt="" coords="765,155,875,181"/>
-<area shape="rect" id="node17" href="$checker_8hpp.html" title="checker.hpp" alt="" coords="927,155,1020,181"/>
+<map id="include/tms&#45;nets/niederreiter2.hpp" name="include/tms&#45;nets/niederreiter2.hpp">
+<area shape="rect" id="node1" title="Includes the generator of a base 2 digital Niederreiter&#39;s (t,m,s)&#45;nets." alt="" coords="219,5,437,32"/>
+<area shape="rect" id="node2" href="$gf2poly_8hpp.html" title=" " alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="155,162,202,189"/>
+<area shape="rect" id="node5" title=" " alt="" coords="216,80,275,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="299,80,357,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="381,80,464,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="488,80,563,107"/>
+<area shape="rect" id="node9" title=" " alt="" coords="587,80,666,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="8,155,131,196"/>
 </map>

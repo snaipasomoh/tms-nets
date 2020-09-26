@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bitcounters',['BitCounters',['../struct_bit_counters.html',1,'']]]
+  ['niederreiter_34',['Niederreiter',['../classtms_1_1_niederreiter.html',1,'tms']]]
 ];
